@@ -25,7 +25,7 @@ export default {
     "window": {
       "backgroundTextStyle": "light",
       "navigationBarBackgroundColor": "#fff",
-      "navigationBarTitleText": "科比",
+      "navigationBarTitleText": "来衣桶",
       "navigationBarTextStyle": "black"
     },
     "tabBar": {
@@ -39,12 +39,12 @@ export default {
           "selectedIconPath": "static/images/ic_menu_choice_pressed.png",
           "text": "首页"
         },
-        {
-          "pagePath": "pages/topic/main",
-          "iconPath": "static/images/ic_menu_topic_nor.png",
-          "selectedIconPath": "static/images/ic_menu_topic_pressed.png",
-          "text": "专题"
-        },
+        // {
+        //   "pagePath": "pages/topic/main",
+        //   "iconPath": "static/images/ic_menu_topic_nor.png",
+        //   "selectedIconPath": "static/images/ic_menu_topic_pressed.png",
+        //   "text": "专题"
+        // },
         {
           "pagePath": "pages/category/main",
           "iconPath": "static/images/ic_menu_sort_nor.png",

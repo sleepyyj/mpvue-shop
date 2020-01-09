@@ -20,7 +20,7 @@ export function formatTime(date) {
 
 //-------------------------------------------------------------------------请求的封装
 
-const host = "http://118.25.222.68:5757/heyushuo";
+const host = "http://localhost:5757/laiyitong";
 export { host };
 //请求封装
 function request(url, method, data, header = {}) {
@@ -97,8 +97,8 @@ export function getOpenid() {
   //       wx.request({
   //         url: 'https://api.weixin.qq.com/sns/jscode2session',
   //         data: {
-  //           "appid": "wx601ce71bde7b9add",
-  //           "secret": "abed5421d88eb8236e933c6e42d5c14e",
+  //           "appid": "wx3748cb59f060deb9",
+  //           "secret": "32e60bdf053d00c37a0768472b04c31e",
   //           "js_code": res.code,
   //           "grant_type": "authorization_code"
   //         },
