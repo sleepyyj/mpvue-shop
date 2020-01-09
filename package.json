@@ -1,8 +1,8 @@
 {
-  "name": "mpvue",
+  "name": "laiyitong",
   "version": "1.0.0",
-  "description": "A Mpvue project",
-  "author": "heyushuo <1007561607@qq.com>",
+  "description": "来衣桶",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

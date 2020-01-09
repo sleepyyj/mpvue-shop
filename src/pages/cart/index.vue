@@ -130,8 +130,6 @@
           this.tranX = this.X - 100;
           this.listData[index].textStyle = `transform:translateX(${this.tranX}rpx);`;
           // transform:'translateX(' + tranX + 'rpx)'
-          console.log("heyushuo");
-
           console.log(this.listData[index].textStyle);
 
           if (this.X + -100 > -100) {
